@@ -5,6 +5,7 @@ Bienvenidos a este repositorio donde analizamos el rendimiento del equipo femeni
 ## 🏀 **Sobre el Equipo**
 El equipo femenino de **Instituto Atlético Central Córdoba** es una de las instituciones más emblemáticas del básquet argentino. Con una rica historia y una fuerte presencia en torneos locales y nacionales, este análisis busca resaltar su desempeño estadístico y aportar información valiosa para mejorar el rendimiento colectivo e individual.  
 
+![Equipo](image.png)
 ---
 
 ## 📌 **¿Qué puedes encontrar en este repositorio?**
